@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: toucan:1.14.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/toucan/toucan/1.14.0/toucan-1.14.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -8,7 +8,7 @@
 
 (def db-spec
   {:dbtype "postgres"
-   :dbname "rotabandeira"
+   :dbname "hellocrud"
    :user "postgres"})
 
 (def swagger-config
